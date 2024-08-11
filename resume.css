@@ -1,0 +1,47 @@
+* {
+    background-image: url(black.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-size: 30px;
+    color: transparent;
+    text-align: center;
+    -webkit-text-stroke: 1px white;
+    font-size: 60px;
+    line-height: 30px;
+    margin: 10px;
+}
+p {
+    color: whitesmoke;
+    columns: 2;
+    font-weight: 400;
+}
+.btn {
+    font-weight: 200;
+    outline: 0;
+    color: whitesmoke;
+}
+.btn2 {
+    font-weight: 200;
+    outline: 0;
+    color: whitesmoke;
+}
+.box {
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-weight: bolder;
+    text-align: left;
+}
+.box ul {
+    list-style-type: none;
+    align-items: center;
+}
+.box h3 {
+    color: blueviolet;
+    
+}
